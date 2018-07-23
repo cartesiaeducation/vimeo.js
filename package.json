@@ -1,5 +1,5 @@
 {
-  "name": "vimeo",
+  "name": "@jarvis-cluster/vimeo",
   "version": "2.1.0",
   "license": "Apache-2.0",
   "description": "A Node.js library for the new Vimeo API.",
